@@ -25,6 +25,6 @@ public class AccountHolder {
     }
 
     public String toString() {
-        return "AccountHolder [name=" + name + ", surname=" + surname + ", userID=" + userID + "]";
+        return "AccountHolder [name=" + this.name + ", surname=" + this.surname + ", userID=" + this.userID + "]";
     }
 }
